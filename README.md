@@ -85,9 +85,9 @@ while True:
 
 <div align="center">
 
-![AIDevBuilds GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIDevBuilds&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00d4ff&text_color=ffffff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Building+with+AI+Tools;Shipping+Real+Software;New+video+every+week+%F0%9F%9A%80)](https://youtube.com/@AIDevBuilds)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIDevBuilds&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=ffffff)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AIDevBuilds&theme=dark&hide_border=true&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&background=0d0d0d&stroke=00ff8820&dates=ffffff80)](https://github.com/AIDevBuilds)
 
 </div>
 
