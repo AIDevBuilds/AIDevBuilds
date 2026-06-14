@@ -23,16 +23,17 @@
 
 ## 🤖 What is AIDevBuilds?
 
-I build **production-ready apps, APIs, and tools using AI coding assistants** — then document every step on YouTube.
-
-No hand-wavy demos. No cherry-picked results. Just real builds, real errors, and real outcomes.
+I build **production-ready apps, APIs, and tools using AI coding assistants** then document every step on YouTube.
+ 
+Every video follows the **AI Autopsy** format 🔬 build live, deploy, then dissect exactly what the AI got wrong. No edited-out failures. No highlight reels.
 
 ```python
 while True:
     idea = think()
-    code = ai_assisted_build(idea, tools=["Claude Code", "Copilot", "ChatGPT", "Cursor"])
-    result = ship(code)
-    upload_to_youtube(result)  # every week 🎬
+    code = ai_assisted_build(idea, tools=["Claude Code", "Copilot", "Cursor"])
+    bugs = autopsy(code)          # the most valuable part
+    result = ship(code, bugs)
+    upload_to_youtube(result)     # every Wednesday 🎬
 ```
 
 ---
@@ -40,12 +41,13 @@ while True:
 ## 🎬 Latest YouTube Videos
 
 <!-- Update these manually or use a GitHub Action to auto-fetch -->
-
-| # | Video | Tools Used |
+<!-- YOUTUBE-VIDEOS-START -->
+| # | Video | Tools Used | Autopsy |
 |---|-------|------------|
-| 🔴 | [Can AI build a fully working chatbot in 30 mins?](#) | Claude Code · FastAPI |
-| 🔴 | [Build a REST API with FastAPI + GitHub Copilot](#) | Copilot · Python |
-| 🔴 | [ChatGPT vs Claude Code — Which writes better code?](#) | ChatGPT · Claude Code |
+| 🔴 | [Can AI build a fully working chatbot in 30 mins?](#) | Claude Code · FastAPI | Autopsy |
+| 🔴 | [Build a REST API with FastAPI + GitHub Copilot](#) | Copilot · Python | Autopsy |
+| 🔴 | [ChatGPT vs Claude Code — Which writes better code?](#) | ChatGPT · Claude Code | Autopsy |
+<!-- YOUTUBE-VIDEOS-END -->
 
 > 📺 **[See all videos →](https://youtube.com/@AIDevBuilds)**
 
@@ -99,9 +101,7 @@ while True:
 
 | Repo | Description | Video |
 |------|-------------|-------|
-| [🤖 chatbot-ai-30mins](#) | Production chatbot built in 30 mins with Claude Code | [▶ Watch](#) |
-| [⚡ fastapi-copilot](#) | REST API with FastAPI + GitHub Copilot | [▶ Watch](#) |
-| [🔬 ai-tools-compared](#) | Code samples from AI tool comparison videos | [▶ Watch](#) |
+| [task-manager-rest-api](https://github.com/AIDevBuilds/task-manager-rest-api) | A production-ready REST API built with FastAPI, SQLAlchemy (async), and JWT authentication.  | [▶ Watch](https://www.youtube.com/watch?v=d95A45z9KOY) |
 
 ---
 
