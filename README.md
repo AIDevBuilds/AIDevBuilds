@@ -42,11 +42,11 @@ while True:
 
 <!-- Update these manually or use a GitHub Action to auto-fetch -->
 <!-- YOUTUBE-VIDEOS-START -->
+<!-- Last updated: 2026-06-14 02:00 UTC -->
 | # | Video | Tools Used | Autopsy |
-|---|-------|------------|
-| 🔴 | [Can AI build a fully working chatbot in 30 mins?](#) | Claude Code · FastAPI | Autopsy |
-| 🔴 | [Build a REST API with FastAPI + GitHub Copilot](#) | Copilot · Python | Autopsy |
-| 🔴 | [ChatGPT vs Claude Code — Which writes better code?](#) | ChatGPT · Claude Code | Autopsy |
+|---|-------|------------|---------|
+| 🔴 🔴 | [I built a production REST API with FastAPI + Claude Code the autopsy shocked me](https://youtu.be/d95A45z9KOY) | Claude Code · FastAPI · Python | 🔴 Auth bypass |
+| 🔴 🔴 | [AIDevBuilds - Real Builds. Honest Failures. Every Wednesday.](https://youtu.be/yxzRtfhm5hI) | Claude Code · Copilot · Cursor · Windsurf | 🔬 See video |
 <!-- YOUTUBE-VIDEOS-END -->
 
 > 📺 **[See all videos →](https://youtube.com/@AIDevBuilds)**
