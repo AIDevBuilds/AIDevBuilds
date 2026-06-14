@@ -5,12 +5,18 @@ on:
     - cron: '0 6 * * 3'   # Every Wednesday at 6:00 AM UTC (11:30 AM IST)
   workflow_dispatch:        # Allow manual trigger from GitHub Actions tab
 
+# ── Required: give the workflow write access to the repo ──────────────────────
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # use built-in token with write access
 
       - name: Set up Python
         uses: actions/setup-python@v5
