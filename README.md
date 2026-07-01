@@ -42,7 +42,7 @@ while True:
 
 <!-- Update these manually or use a GitHub Action to auto-fetch -->
 <!-- YOUTUBE-VIDEOS-START -->
-<!-- Last updated: 2026-06-24 08:49 UTC -->
+<!-- Last updated: 2026-07-01 09:24 UTC -->
 | # | Video | Tools Used | Autopsy |
 |---|-------|------------|---------|
 | 🔴 🔴 | [I built a production REST API with FastAPI + Claude Code the autopsy shocked me](https://youtu.be/d95A45z9KOY) | Claude Code · FastAPI · Python | 🔴 Auth bypass |
