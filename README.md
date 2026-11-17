@@ -8,7 +8,7 @@ I write about architecture decisions, and about what AI gets wrong when it desig
 
 - [AI + Architecture](https://newsletter.aidevbuilds.com/subscribe): a free newsletter, once a month
 - [Blog](https://aidevbuilds.hashnode.dev): articles on boundaries, failure modes and tradeoffs
-- [YouTube](https://www.youtube.com/@AIDevBuilds): short videos, one design decision each
+- [YouTube](https://www.youtube.com/@AIDevBuilds): videos and Shorts, one design decision at a time
 - [X](https://x.com/AIDevBuilds) and [LinkedIn](https://www.linkedin.com/in/sandeepsinghchandi)
 
 ## Repositories
